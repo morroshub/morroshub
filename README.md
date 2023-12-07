@@ -16,10 +16,11 @@
 - Email: Lucasgenaromorrone@gmail.com
 
 ## Profile
-- **MORROSHUB**
+- GITHUB **MORROSHUB**
 
 ## Languages
-- B2 Native
+-Spanish Native
+-English B2 Native
 
 ## Education and Certification
 - Microsoft Excel, PowerBi & SQLServer - 2022
