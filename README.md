@@ -14,7 +14,7 @@
 ## Contact
 - Phone: +5491530556594
 - Email: [Lucasgenaromorrone@gmail.com](mailto:Lucasgenaromorrone@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://https://www.linkedin.com/in/lucas-genaro-morrone/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucas-genaro-morrone/)
 
 
 
