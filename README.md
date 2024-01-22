@@ -17,14 +17,12 @@
 - Email: [Lucasgenaromorrone@gmail.com](mailto:Lucasgenaromorrone@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucas-genaro-morrone/)
 
-
-
 ## Profile
 - GITHUB **MORROSHUB**
 
 ## Languages
 -Spanish Native
--English B2 Native
+-English B2 
 
 ## Education and Certification
 - Microsoft Excel, PowerBi & SQLServer - 2022
