@@ -58,8 +58,9 @@ Furthermore, I have expertise in managing virtualized machines and handling disk
 - Problem solver for each particulary client requierement
 
 ### Fobutec Web Development & Digital Marketing Agency 2021 - 2023
-Data Engineer
-SQL & BBDD maintenan
+- Data Engineer
+- SQL & BBDD maintenance
+- Dev fullstack projects
 
 ### Morrigs - Crypto Farm (2018 - Present)
 - Co-founder
