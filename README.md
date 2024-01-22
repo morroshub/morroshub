@@ -8,6 +8,7 @@
 - PowerBI
 - SQL/NOSQL
 - Azure Suite
+- Scala
 - JavaScript (Node.js)
 - Elixir (Phoenix)
 
