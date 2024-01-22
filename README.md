@@ -55,6 +55,14 @@ Furthermore, I have expertise in managing virtualized machines and handling disk
 
 ## Work Experience
 
+### Freelance Independent IT Problem Solver 2022 -
+- Manage Servers
+- Problem solver for each particulary client requierement
+
+### Fobutec Web Development & Digital Marketing Agency 2021 - 2023
+Data Engineer
+SQL & BBDD maintenan
+
 ### Morrigs - Crypto Farm (2018 - Present)
 - Co-founder
 - Service Provider Infrastructure & Maintenance
