@@ -1,4 +1,4 @@
-# Lucas Morrone - Python Developer and Data Analyst
+# Lucas Morrone - Developer, Data Engineer , SysAdm
 
 ## Tech Skills
 - Python (Pandas, Pyspark, Numpy, Seaborn, Scikit-learn)
@@ -34,6 +34,9 @@
 - Microsoft Learning Platform - 2023
 - CISCO Associate - 2023
 - Elixir - Platzi - 2023
+- Degree - CiberSecurity
+UAI | Universidad Interamericana
+OnCourse | finish on 2024
 
 ## Lucas Morrone - Python Developer and Data Analyst
 - Problem Analysis & Resolution, Process Design, Technical Documentation, Verbal & Written Communication, Staff Training & Development
